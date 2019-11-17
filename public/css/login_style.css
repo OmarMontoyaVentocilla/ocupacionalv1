@@ -1,0 +1,30 @@
+body {
+    background-image: url("../img/descarga.jpg") !important;
+    background-size: cover !important;
+    background-position-x: center !important;
+    background-position-y: center !important;
+    background-repeat: no-repeat !important;
+    padding: 20px 5% !important;
+}
+
+.login-page {
+    background-color: #332f2fd1;
+}
+
+.login-box-body {
+    border: 1px solid rgba(0, 0, 0, .2);
+    border-radius: 6px;
+}
+
+.login-box-msg {
+    background: #3c8dbc;
+    color: white;
+    margin: 0 2px 12px 0;
+    padding: 20px 20px 20px 20px;
+}
+
+.login-logo {
+    margin-bottom: 6px;
+    background: white;
+    padding: 10px;
+}
